@@ -9,7 +9,7 @@ The current version employs simple linear quantization: weights are mapped to th
 ## installation steps
 1. Clone the repository to your computer.
 
-## Software version 
+## Software version and hardware equipment 
 The following software version which have been test
 1. python 3.13
 2. pythorch Preview(Nightly), CUDA 12.8
