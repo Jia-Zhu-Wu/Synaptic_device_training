@@ -1,11 +1,9 @@
 # synaptic device training method 
-This project are design for who want to stimulate the synaptic device(optical or electrical, RRAM, spintronic, FeRAM) by software.
+This project is designed for those who want to simulate synaptic devices (optical or electrical, RRAM, spintronic, FeRAM) using software.
 
-I try to build the neural network model which have been mention by previous paper(because some of that didn't give the source code), futhermore, I try to create GUI interface to reduce the reading and stimulation threshold.
-All reference will put in description. 
+I built the neural network model based on previous studies (as some papers did not provide their source code). Additionally, I created a GUI to lower the barriers for reading and running simulations. All references are included in the description.
 
-If you have any question, please contact me
-my email: allen569780b@gmail.com
+If you have any questions, please contact me via email at allen569780b@gmail.com.
 
 ## language 
 python pytorch 
