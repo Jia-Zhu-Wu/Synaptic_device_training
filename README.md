@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/968517067.svg)](https://doi.org/10.5281/zenodo.16219322)
+
 # synaptic device training method 
 This project is designed for those who want to simulate synaptic devices (optical or electrical, RRAM, spintronic, FeRAM) using software.
 
